@@ -1,3 +1,0 @@
-D:/CodingProjects/CLion/OS_Lab/cmake-build-debug/CMakeFiles/OS_Lab_5a.dir
-D:/CodingProjects/CLion/OS_Lab/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/CodingProjects/CLion/OS_Lab/cmake-build-debug/CMakeFiles/rebuild_cache.dir
